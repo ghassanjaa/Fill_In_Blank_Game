@@ -1,0 +1,6 @@
+framework module Pods_FillableTextView_Example {
+  umbrella header "Pods-FillableTextView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
